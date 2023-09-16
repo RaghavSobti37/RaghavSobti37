@@ -10,15 +10,15 @@
 
 ###
 
-<h2 align="left">Connect with me :</h2>
+<h2 align="left">Connect with me</h2>
 
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/raghav raj sobti" target="_blank">
+  <a href="https://www.linkedin.com/in/raghav-raj-sobti-52b5501a7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/bluepolaroid_05" target="_blank">
+  <a href="https://www.instagram.com/bluepolaroid05/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://stackoverflow.com/users/22549355" target="_blank">
@@ -27,8 +27,8 @@
   <a href="https://medium.com/@raghavishaan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
   <a href="https://www.leetcode.com/raghav37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav37" height="30" width="40" /></a>
+  
   <a href="https://auth.geeksforgeeks.org/user/user_nbwxoljz3dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_nbwxoljz3dn" height="30" width="40" /></a>
 </div>
 
