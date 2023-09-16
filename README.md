@@ -29,6 +29,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  <a href="https://www.leetcode.com/raghav37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav37" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/user_nbwxoljz3dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_nbwxoljz3dn" height="30" width="40" /></a>
 </div>
 
 ###
@@ -117,17 +119,6 @@
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=raghavishaan&theme=highcontrast" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Ragsss">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu&unique={true|1|on|yes})
-  </a>
 </div>
 
 ###
