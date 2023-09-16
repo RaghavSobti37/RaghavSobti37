@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A passionate Computer science student from India</h3>
+<h3 align="center">A passionate Computer science student from India</h3>
 
 ###
 
@@ -123,7 +123,10 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Ragsss">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu&unique={true|1|on|yes})
   </a>
 </div>
 
