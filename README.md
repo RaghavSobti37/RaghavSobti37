@@ -119,9 +119,8 @@
 </div>
 
 ###
-  <div align="center>
-![Sptify recently played](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu&count=3)
-  </div>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu&count=3)
     
 <div align="center">
   <img src="https://profile-counter.glitch.me/RaghavSobti37/count.svg?"  />
