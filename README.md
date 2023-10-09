@@ -87,17 +87,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=raghavishaan&theme=highcontrast" alt="Layout with last medium posts"  />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaghavSobti37&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-###
-![Spotify Recently PLayed](https://spotify-recently-played-readme.vercel.app/api?user=314i4j6nzrmctdy5xvhosa4iwvlu&count=3)
 <div align="center">
   <img src="https://profile-counter.glitch.me/RaghavSobti37/count.svg?"/>
 </div>
