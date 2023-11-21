@@ -1,24 +1,9 @@
-<h1 align="center">Hi 👋, I'm Raghav Raj Sobti</h1>
-
-###
-
-<h3 align="center">A passionate Computer science student from India</h3>
-
-###
-
-<h3 align="center">Looking forward to collaborating on projects 🪢</h3>
-
-###
-
-
-
-###
-
 <h2 align="left">Languages and Frameworks</h2>
 
 ###
 
 <div align="center">
+  <h1> JavaScript </h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
