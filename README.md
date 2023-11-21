@@ -3,11 +3,11 @@
 ###
 
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/RaghavSobti37/SIH-Hackathon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
   </a>
   <img width="12" />
-  <a href="#">
+  <a href="https://github.com/RaghavSobti37/SIH-Hackathon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" title="Azure" />
   </a>
   <img width="12" />
@@ -15,12 +15,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" title="Google Cloud" />
   </a>
   <img width="12" />
-  <a href="#">
+  <a href="https://github.com/RaghavSobti37/SIH-Hackathon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
-  </a>
-  <img width="12" />
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" title="IntelliJ" />
   </a>
   <img width="12" />
   <a href="#">
@@ -39,7 +35,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" title="OpenCV" />
   </a>
   <img width="12" />
-  <a href="#">
+  <a href="https://github.com/RaghavSobti37/Chess-AI-Project">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" title="NumPy" />
   </a>
   <img width="12" />
@@ -47,7 +43,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" title="Pandas" />
   </a>
   <img width="12" />
-  <a href="#">
+  <a href="https://github.com/RaghavSobti37/Chess-AI-Project">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
   </a>
   <img width="12" />
@@ -55,16 +51,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" title="TensorFlow" />
   </a>
   <img width="12" />
-  <a href="#">
+  <a href="https://github.com/RaghavSobti37/Learning-java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
   </a>
   <img width="12" />
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" title="Kubernetes" />
-  </a>
-  <img width="12" />
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
   </a>
 </div>
 
