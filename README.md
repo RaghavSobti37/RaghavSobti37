@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Raghav%20Raj%20Sobti&fontSize=90" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Raghav%20Raj%20Sobti&fontSize=90" alt="Header Banner"/>
 </div>
 
 <h1 align="center">Hi there, I'm Raghav Raj Sobti 👋</h1>
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-I'm a software development enthusiast with a keen interest in AI, web technologies, and creating impactful solutions. I enjoy tackling challenging problems and continuously expanding my skillset.
+I'm a software development enthusiast with a keen interest in AI, web technologies, and creating impactful solutions. I enjoy tackling challenging problems and continuously expanding my skillset, particularly with the MERN stack and modern deployment platforms.
 
 ---
 
@@ -49,6 +49,18 @@ Here are some of the languages, frameworks, and tools I work with:
   <img width="12" />
   <a href="https://github.com/RaghavSobti37/SIH-Hackathon" title="HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  </a>
+  <img width="12" />
+  <a href="#" title="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  </a>
+  <img width="12" />
+  <a href="#" title="Node.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  </a>
+  <img width="12" />
+  <a href="#" title="Express.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   </a>
   <img width="12" />
   <a href="#" title="MongoDB">
@@ -76,7 +88,7 @@ Here are some of the languages, frameworks, and tools I work with:
   </a>
 </div>
 
-### Cloud & DevOps
+### Cloud, DevOps & Platforms
 <div align="center">
   <a href="https://github.com/RaghavSobti37/SIH-Hackathon" title="Azure">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
@@ -92,6 +104,18 @@ Here are some of the languages, frameworks, and tools I work with:
   <img width="12" />
   <a href="#" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  </a>
+  <img width="12" />
+  <a href="#" title="Vite">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo" />
+  </a>
+  <img width="12" />
+  <a href="#" title="Vercel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
+  </a>
+  <img width="12" />
+  <a href="#" title="Render">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/render/render-original.svg" height="40" alt="render logo" />
   </a>
 </div>
 
@@ -138,6 +162,7 @@ Here are some of the languages, frameworks, and tools I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=RaghavSobti37&show_icons=true&theme=solarized-dark&hide_border=false&count_private=true" alt="RaghavSobti37's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaghavSobti37&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=solarized-dark&hide_border=false&order=2" height="150" alt="Top Languages" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavSobti37&theme=solarized-dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
