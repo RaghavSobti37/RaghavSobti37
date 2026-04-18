@@ -59,9 +59,6 @@ Here are some of the languages, frameworks, and tools I work with:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   </a>
   <img width="12" />
-  <a href="#" title="Express.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  </a>
   <img width="12" />
   <a href="#" title="MongoDB">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
@@ -110,13 +107,7 @@ Here are some of the languages, frameworks, and tools I work with:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo" />
   </a>
   <img width="12" />
-  <a href="#" title="Vercel">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
-  </a>
   <img width="12" />
-  <a href="#" title="Render">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/render/render-original.svg" height="40" alt="render logo" />
-  </a>
 </div>
 
 ### Tools
@@ -137,9 +128,6 @@ Here are some of the languages, frameworks, and tools I work with:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo" />
   </a>
   <img width="12" />
-  <a href="#" title="Unreal Engine">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo" />
-  </a>
   <img width="12" />
   <a href="#" title="Figma">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
