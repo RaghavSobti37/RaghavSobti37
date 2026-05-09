@@ -69,13 +69,7 @@ A premium education platform for music mastery.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaghavSobti37&show_icons=true&theme=transparent&title_color=00aeff&text_color=ffffff&icon_color=00aeff&hide_border=true&count_private=true" alt="Raghav's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSobti37&layout=compact&theme=transparent&title_color=00aeff&text_color=ffffff&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+## 📊 GitHub Streaks
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavSobti37&theme=transparent&currStreakNum=00aeff&sideLabels=ffffff&stroke=00aeff&fire=00aeff&hide_border=true" alt="Streak Stats" />
